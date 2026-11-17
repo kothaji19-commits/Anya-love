@@ -55,9 +55,7 @@
   "nickNameBot": "Aliya Official",
   "prefix": "(",
   "database": {
-    "type": "mongodb",
-    "uriMongodb": "mongodb+srv://masterjiraya738_db_user:X901ZSN6RVf28L60@cluster0.huskfaf.mongodb.net/",
-    "autoSyncWhenStart": false,
+
     "autoRefreshThreadInfoFirstTime": true
   },
   "timeZone": "Asia/Dhaka",
@@ -76,7 +74,9 @@
   },
   "dashBoard": {
     "enable": true,
-    "expireVerifyCode": 300000,
+    "expireVerifyCode": 30    "type": "mongodb",
+    "uriMongodb": "mongodb+srv://masterjiraya738_db_user:X901ZSN6RVf28L60@cluster0.huskfaf.mongodb.net/",
+    "autoSyncWhenStart": false,0000,
     "port": 3001
   },
   "serverUptime": {
